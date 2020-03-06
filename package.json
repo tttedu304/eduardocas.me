@@ -1,0 +1,22 @@
+{
+  "name": "eduardocas",
+  "version": "1.0.0",
+  "description": "Pagina personal de experiencias y proyectos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tttedu304/eduardocas.me.git"
+  },
+  "author": "Eduardo Espinoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tttedu304/eduardocas.me/issues"
+  },
+  "homepage": "https://github.com/tttedu304/eduardocas.me#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
